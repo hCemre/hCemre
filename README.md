@@ -1,5 +1,6 @@
 <h1 align="left">Hi there, I'm Cemre <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
-<h3 align="left"> A renovative optimist who is filled with the energy of development and achievement. </h3>
+<h2 align="left"> A renovative optimist who is filled with the energy of development and achievement. </h2>
+<h3 align="left">This profile contains a small selection of personal and practice projects. While it’s not a comprehensive showcase of my work, it reflects my ongoing learning, curiosity, and hands-on approach to improving my technical skills.</h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 
 
@@ -39,16 +40,4 @@
 </p>
 <br>
 
-
-<!-- BLOG-POST-LIST:START 
-<h2 align='left'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=bahadirbunul&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirbunul&theme=default" />
-</a>
-</div>
--->
-<!-- BLOG-POST-LIST:END -->
 
